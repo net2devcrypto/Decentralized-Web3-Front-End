@@ -1,0 +1,22 @@
+.backstyle {
+  background: rgb(6,6,6);
+  background: radial-gradient(circle, rgba(6,6,6,1) 0%, rgba(71,30,97,1) 100%);
+  max-width: 1000px;
+}
+
+.container {
+  max-width: 1160px;
+}
+
+.mar{
+  margin-top: 20px;
+}
+
+.stakestyle {
+font-family: 'SF Pro Display';
+font-size: large;
+font-weight: 500;
+background-color: #FFF01F;
+color: black
+}
+
