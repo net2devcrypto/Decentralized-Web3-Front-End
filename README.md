@@ -21,8 +21,10 @@ Click for video:
 Part1 Folder Contents:
 
 ```shell
-N2D-DeFI-MasterChef-SmartContract-Storage-Demo.sol
-N2D-ERC20-N2DRewards-Token-SmartContract.sol
+CSS Folder
+JS Folder
+Public Folder
+Index.html
 ```
 
-
+Download part1 folder from repo and open index.html, completed tutorial page should load. Practice JS HTML DOM with Tutorial Video.
