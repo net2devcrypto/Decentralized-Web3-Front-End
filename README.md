@@ -1,7 +1,7 @@
 # Decentralized-Web3-Front-End
 Build a Static HTML Web3 Frontend that can be hosted in IPFS to have a true serverless, decentralized web3 application.
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/decentralized.jpg" width="550" height="270">
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/decentralized.jpg" width="550" height="290">
 
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
 
