@@ -28,3 +28,23 @@ Index.html
 ```
 
 Download part1 folder from repo and open index.html, completed tutorial page should load. Practice JS HTML DOM with Tutorial Video.
+
+<h3>Part 2 Repo</h3>
+
+Click for video:
+
+<a href="https://www.youtube.com/watch?v=IOi6dtYLETA" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+
+Part2 Folder Contents:
+
+Updated HTML File with Tutorial Changes
+
+Added:
+```shell
+js/
+config.js (WEB3 Functions)
+erc20abi.js (ERC20 Token Smart Contract ABI)
+masterchef.js (DeFI Masterchef Smart Contract ABI)
+```
+
+Download part2 folder from repo and open index.html, completed tutorial page should load. Practice the Web3 Functions and how they are invoked per render sequence.
